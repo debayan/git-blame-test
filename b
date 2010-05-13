@@ -6,3 +6,4 @@ foo
 yo
 lala
 yes
+np
